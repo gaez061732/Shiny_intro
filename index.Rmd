@@ -1,0 +1,109 @@
+---
+title: "Shiny ?"
+output:
+  xaringan::moon_reader:
+    css: [default, zh-CN.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class: center, middle
+
+
+
+```{r out.width = "50%", fig.align = "center", echo=FALSE}
+knitr::include_graphics("www/shiny-hex.png")
+```
+
+
+---
+class: inverse
+
+## Shiny 是什麼 ?
+
+--
+
+1. 是 R 的一個套件
+
+--
+
+2. 輕鬆用 R 整合資訊儀表板的前後端
+
+--
+
+3. 上面那句看不懂沒關係，只要知道
+
+--
+
+4. 它能幫你做出酷炫的課堂報告、讓聽眾跟著你的故事一起互動
+
+--
+
+5. 而你幾乎不太需要懂其他網頁語言(CSS, JS, HTML)
+
+--
+
+![](www\awesome.gif)
+
+---
+class: center, inverse
+
+## 先直接來看 Shiny 能做出些什麼！
+
+```{r out.width = "80%", fig.align = "center", echo=FALSE}
+knitr::include_graphics("www/gallery.png")
+```
+
+
+[Shiny Gallery](https://shiny.rstudio.com/gallery/)
+
+---
+class: inverse, center, middle
+
+# 走！去報名！
+
+--
+
+# 等等！
+
+---
+
+# 有些事必須先讓大家知道
+
+1. Shiny 入門算容易，但要專精是需要時間的！要到哪個層次完全看個人需求
+
+--
+
+2. 這次入門工作坊大概只會教大家到 Gallery 中 Start simple 等級的吧！就當作省去一開始自己探索的時間！
+
+--
+
+3. 因為只有三小時，我們完全不提R基礎，會直接切入 Shiny！
+
+--
+
+4. 所以如果你有用 R 實作過課程報告或是研究相關經驗且沒用過 Shiny 來聽 CP 值會最高！
+
+--
+
+5. 也是很歡迎較少實作經驗但有 R 基礎的同學來參加！但至少至少！你需要用R畫過一張圖！
+
+--
+
+6. 本次工作坊只開放給財金系所以及 R 學生團隊的同學，上限 30 人，沒有下限，1 人也會開！不符資格想來的同學很抱歉！
+
+--
+
+7. 最後感謝去年此時開爬蟲工作坊的碩班學長，讓我回饋性的也想教大家一些課堂上學不到但有趣的東西(?)
+
+---
+
+class: inverse, center, middle
+
+![](www\password.gif)
+
+如果你想報名，不管你認不認識他，請先記住他是派大星，再去報名
+
